@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect("");
+mongoose.connect("mongodb+srv://smritirai2301:shikharai@cluster0.4umx4ob.mongodb.net/paytm-app?retryWrites=true&w=majority");
 
 const userSchema=mongoose.Schema({
     username: String,
