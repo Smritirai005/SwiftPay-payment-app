@@ -1,7 +1,7 @@
 import { BottomWarning} from "../components/BottonWarning"
-import { Button } from "../components/button"
-import { Heading} from "../components/heading"
-import { InputBox } from "../components/inputField"
+import { Button } from "../components/Button"
+import { Heading} from "../components/Heading"
+import { InputBox } from "../components/InputField"
 import { SubHeading } from "../components/SubHeading"
 
 
