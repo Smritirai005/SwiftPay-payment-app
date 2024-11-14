@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Button } from "./Button"
+import { Button } from "./button"
 
 export const Users = () => {
     // Replace with backend call
